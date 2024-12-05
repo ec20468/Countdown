@@ -53,8 +53,6 @@ I aimed to build a functional timer-based game using React where players can tes
   
   - **State Management**: Using React's `useState` and `useRef` to hooks to handle timer control, player name input, and modal display logic.
   
-  - **Conditional Rendering**: Dynamically showing different components based on game state, such as displaying the winner or draw and allowing for game restarts.
-  
   - **Event Handling**: Efficiently managing user interactions, such as starting/stopping the timer and resetting the game.
   
   - **Conditional Rendering**: Displaying the score or loss message dynamically based on player performance.
